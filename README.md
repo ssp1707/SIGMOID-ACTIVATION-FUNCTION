@@ -22,6 +22,10 @@
 
 * The output of the logistic function is not symmetric around zero. So the output of all the neurons will be of the same sign. This makes the training of the neural network more difficult and unstable.
 
+
+
+
+
 ## Algorithm
 1. Import packages
 2. Define neural network class
